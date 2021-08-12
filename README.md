@@ -6,6 +6,6 @@
 - Tailwind CSS
 - Framer-motion
 
-## DEMO
+## Preview
 
 ![](./preview.gif)
